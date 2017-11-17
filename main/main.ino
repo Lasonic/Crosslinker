@@ -1,4 +1,4 @@
-/*-----Import libraries-----*/
+/*-----Import Libraries-----*/
 #include <Wire.h>               // Wire library. I2C communication. 
 #include <Math.h>
 #include <LiquidCrystal_I2C.h>  // LCD I2C library. 2x16 LCD display.
